@@ -4,6 +4,6 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
 jupyter trust damping_regimes_1.ipynb
 jupyter trust damped_driven_1.ipynb
-jupyter trust damped_driven_evolution_1.ipynb
+jupyter trust damped_driven_evolultion_1.ipynb
 jupyter trust coupled_pendula_2.ipynb
 jupyter trust driven_coupled_pendula_1.ipynb
