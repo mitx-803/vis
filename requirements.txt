@@ -1,0 +1,9 @@
+scipy
+numpy
+ipywidgets
+nbinteract
+matplotlib
+pandas
+IPython
+ffmpeg
+jupyter-contrib-nbextensions
