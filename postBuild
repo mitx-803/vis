@@ -7,3 +7,7 @@ jupyter trust damped_driven_1.ipynb
 jupyter trust damped_driven_evolultion_1.ipynb
 jupyter trust coupled_pendula_2.ipynb
 jupyter trust driven_coupled_pendula_1.ipynb
+jupyter trust many_coupled_masses_1.ipynb
+jupyter trust fourier_series_approx_1.ipynb
+jupyter trust progressing_wave_1.ipynb
+jupyter trust superposition_1.ipynb
