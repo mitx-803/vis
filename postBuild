@@ -29,3 +29,5 @@ jupyter trust 2D_rank_freq_spatial_modes_with_boundary_continuous_1.ipynb
 jupyter trust 2D_rank_freq_spatial_modes_DRIVEN_CHLADNI_1.ipynb
 jupyter trust 2D_rank_freq_spatial_modes_with_boundary_OPEN_continuous_1.ipynb
 jupyter trust beach_waves_phase_velocity_1.ipynb
+jupyter trust refracting_light_1.ipynb
+jupyter trust refracted_waves_frequency_1.ipynb
