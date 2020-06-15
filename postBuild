@@ -32,3 +32,10 @@ jupyter trust beach_waves_phase_velocity_1.ipynb
 jupyter trust refracting_light_1.ipynb
 jupyter trust refracted_waves_frequency_1.ipynb
 jupyter trust polarization_states_1.ipynb
+jupyter trust intensity_waveforms_1.ipynb
+jupyter trust intensity_complex_1.ipynb
+jupyter trust thin_film_interferene_1.ipynb
+jupyter trust double_slit_interference_1.ipynb
+jupyter trust Nslit_interference_1.ipynb
+jupyter trust diffraction_1.ipynb
+jupyter trust interference_diffraction_1.ipynb
