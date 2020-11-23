@@ -39,3 +39,4 @@ jupyter trust double_slit_interference_1.ipynb
 jupyter trust Nslit_interference_1.ipynb
 jupyter trust diffraction_1.ipynb
 jupyter trust interference_diffraction_1.ipynb
+jupyter trust damped_driven_RLC_1.ipynb
