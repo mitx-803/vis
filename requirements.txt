@@ -1,9 +1,9 @@
-scipy==1.8.0
-numpy==1.22.3
+scipy
+numpy
 ipywidgets==7.7.0
 nbinteract
-matplotlib==3.5.1
+matplotlib
 pandas
-IPython==8.2.0
+IPython
 ffmpeg
 jupyter-contrib-nbextensions==0.5.1
