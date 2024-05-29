@@ -6,4 +6,4 @@ matplotlib==3.5.1
 pandas
 IPython==8.2.0
 ffmpeg
-jupyter-contrib-nbextensions==0.5.1
+jupyter-contrib-nbextensions
