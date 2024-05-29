@@ -4,6 +4,6 @@ ipywidgets==7.7.0
 nbinteract
 matplotlib==3.5.1
 pandas
-IPython==8.2.0
+IPython
 ffmpeg
 jupyter-contrib-nbextensions
