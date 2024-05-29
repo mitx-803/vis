@@ -1,7 +1,7 @@
-scipy==1.8.0
-numpy==1.22.3
+scipy
+numpy
 ipywidgets==7.7.0
-matplotlib==3.5.1
+matplotlib
 pandas
 ipython==8.2.0
 ffmpeg
